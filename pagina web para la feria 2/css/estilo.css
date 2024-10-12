@@ -1,0 +1,122 @@
+/*Sobre escribiendo las hojas de estilo de bootstrap */
+/* Menu*/
+#menu img{
+    width: 200px;
+}
+#menu{
+    background: white !important;
+}
+#menu a{
+    color: #185B04;
+}
+#menu a:hover{
+    color: #fff200;
+}
+
+
+/*Portada*/
+#portada img{
+    max-height: 70vh;
+}
+
+/*Footer= pie de pagina*/
+#pie{
+    background: linear-gradient(180deg, #185B04, #339A14);
+    color: white;
+}
+#derecho{
+    text-align: center;
+    color: black;
+}
+.text{
+    padding-left: 50px;
+    color: #185B04;
+    padding-right: 50px;
+
+}
+.texto{
+    padding-left: 50px;
+}
+.row-clase{
+    padding-left: 20px;
+}
+#pie{
+    background: #1a1a1a;
+    
+}
+.titulo{
+    border-bottom: 3px solid #03af0c;
+    text-align: center;
+    color: #185B04;
+
+}
+.page img{
+    padding-bottom: 30px;
+}
+main section img{
+    padding-bottom: 60px;
+}
+.carreras{
+    text-align: center;
+    color: #185B04;
+
+
+}
+.card-img-top{
+    padding-bottom: 40px;
+
+}
+.card1{
+    background: #339A14;
+}
+#abajo{
+    background: #185B04;
+}
+.cuota{
+    padding-top: 10px;
+    color: white;
+    padding-left: 80px;
+}
+#abajo img{
+    height: 10%;
+    width: 10%;
+}
+.iconos{
+   width: 160px;
+}
+.final{
+    color: #03af0c;
+}
+#portadaa img{
+    max-height: 70vh;
+}
+.lider{
+    padding-left: 160px;
+
+}
+.imagenes{
+    width: 70%;
+    height: 70%;
+    padding-bottom: 40px;
+}
+.profes{
+    width: 70%;
+    height: 60%;
+}
+.boton {
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #185B04;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.boton:hover {
+    background-color: #45a049;
+}
+.ultimo{
+    padding-right: 100px;
+}
+#detalle{
+    padding-left: 160px;
+}
